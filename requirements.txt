@@ -1,0 +1,9 @@
+spacy
+rapidfuzz
+nltk
+regex
+requests
+pydantic
+uvicorn
+fastapi
+psycopg2-binary
